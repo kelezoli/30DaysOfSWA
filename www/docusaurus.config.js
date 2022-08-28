@@ -6,18 +6,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Azure Static Web Apps',
-  tagline: 'Bring Your App Ideas to Life with Static Web Apps',
-  url: 'https://www.azurestaticwebapps.dev',
-  baseUrl: '/', // NOTE: Use '/30DaysOfSWA/' for GH Pages. '/' otherwise
+  title: 'DIGITAL REALITY',
+  tagline: 'Introductory handbook for skills trainers and teachers',
+  url: 'https://www.kelemenzoltan.com',
+  baseUrl: '/drinvet/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   // -- Customized for Deployment Configuration
-  organizationName: 'staticwebdev', // Usually your GitHub org/user name.
-  projectName: '30DaysOfSWA', // Usually your repo name.
+  organizationName: '', // Usually your GitHub org/user name.
+  projectName: 'DRinvet', // Usually your repo name.
   trailingSlash: false,
-  deploymentBranch: `gh-pages`, // default = gh-pages
+  // deploymentBranch: `gh-pages`, // default = gh-pages
 
   presets: [
     [
@@ -32,13 +32,13 @@ const config = {
           
         },
       
-       /* blog: {
+        blog: {
           showReadingTime: true,
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'Most Recent Posts',
           postsPerPage: 1,
         },
-        */
+       
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -63,9 +63,9 @@ const config = {
         maxHeadingLevel: 3,
       },
       navbar: {
-        title: 'Static Web Apps!',
+        title: 'DIGITAL REALITY',
         logo: {
-          alt: '#30DaysOfSWA Logo',
+          alt: 'DRinVET logo',
           src: 'img/svg/logo.svg',
         },
         items: [
