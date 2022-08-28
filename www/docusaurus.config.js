@@ -24,20 +24,21 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: false,
-        /*
+        
+      
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/staticwebdev/30DaysOfSWA/tree/main/www',
+          
         },
-        */
-        blog: {
+      
+       /* blog: {
           showReadingTime: true,
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'Most Recent Posts',
           postsPerPage: 1,
         },
+        */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
