@@ -4,12 +4,12 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: '#30DaysOfSWA',
-    Svg: require('@site/static/img/svg/logo-30days.svg').default,
+    title: 'An introduction',
+    Svg: require('@site/static/img/svg/logo.svg').default,
     link: "roadmap",
     description: (
       <>
-        Jumpstart your learning with the #30DaysofSWA blog series.
+          This handbook is an introduction to Digital Reality tools and approaches in vocational education.
       </>
     ),
   },
@@ -66,22 +66,22 @@ const FeatureList = [
   },
   */
   {
-    title: 'This Month In SWA',
-    Svg: require('@site/static/img/svg/landing-anniversary.svg').default,
+    title: 'For teachers and trainers',
+    Svg: require('@site/static/img/svg/landing-showcase.svg').default,
     link: "thismonth",
     description: (
       <>
-        Subscribe to our blog for a monthly roundup of SWA news and content
+      A guide to navigate in the terms, tools and approaches. Listing opportunities and pitfalls
       </>
     ),
   },
   {
-    title: 'SWA Showcase',
-    Svg: require('@site/static/img/svg/landing-showcase.svg').default,
+    title: 'Handbook style',
+    Svg: require('@site/static/img/svg/landing-tips.svg').default,
     link: "showcase",
     description: (
       <>
-        Browse community-contributed examples for inspiration. Add your project!
+        Easy to read format with a sidebar on the left with the contents. The material is tailored for you.
       </>
     ),
   },

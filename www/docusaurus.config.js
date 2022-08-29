@@ -32,20 +32,20 @@ const config = {
           
         },
       
-        blog: {
+/*        blog: {
           showReadingTime: true,
           blogSidebarCount: 'ALL',
           blogSidebarTitle: 'Most Recent Posts',
           postsPerPage: 1,
         },
-       
+*/       
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-        gtag: {
+/*        gtag: {
           trackingID: 'G-XQTX19ZF9V',
           anonymizeIP: true,
-        },
+        }, */
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
@@ -69,28 +69,17 @@ const config = {
           src: 'img/svg/logo.svg',
         },
         items: [
-          {to: '/roadmap', label: 'Roadmap', position: 'left'},
-          {to: '/thismonth', label: 'Roundup', position: 'left'},
-          {to: '/showcase', label: 'Showcase', position: 'left'},
-          {to: '/blog', label: 'Blog', position: 'left'},
-         /* {to: '/contribute', label: 'Contribute', position: 'left'}, */
-          {to: '/resources', label: 'Docs', position: 'right'},
-          {to: 'https://portal.azure.com/?feature.customportal=false&WT.mc_id=30daysofswa-61155-ninarasi#create/Microsoft.StaticApp', label: 'Deploy', position: 'right'},
-         /* {to: '/roadmap', label: 'Roadmap', position: 'left'},*/
-          
-          /*
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Introduction',
             position: 'left',
-            label: 'Exercises',
+            label: 'Handbook',
           },
-          */
+          {href: '/about', label: 'About', position: 'left'},
           {
-            href: 'https://github.com/staticwebdev/30DaysOfSWA',
+            href: 'sthing',
+            label: 'GitHub',
             position: 'right',
-            className: 'header-github-link',
-            'aria-label': 'GitHub repository',
           },
         ],
       },
@@ -139,7 +128,7 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Microsoft </a> - Built with <a href="https://docusaurus.io"> Docusaurus </a> - Deployed to <a href="https://aka.ms/swa"> Azure </a> - Created by <a href="https://github.com/nitya"> @nitya </a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} DrinVET </a> - Built with <a href="https://docusaurus.io"> Docusaurus </a>  - Created by <a href="https://learnvirtual.eu"> Learning Virutal Europe </a>`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -180,17 +169,7 @@ const config = {
 
       ],
 
-      announcementBar: {
-        id: 'Learn in 30 Days',
-        content:
-        /*
-          '<b>Find #30DaysOfSWA useful? Give it a star on <a href="https://github.com/staticwebdev/30DaysOfSWA"><b>GitHub</b></a></b>',
-        */
-          '<b>Found this project helpful? Give us a star on <a href="https://aka.ms/30DaysOfSWA/github"><b>GitHub</b></a></b> 🙏🏽',
-        backgroundColor: '#50E6FF',
-        textColor: '#552F99',
-        isCloseable: false,
-      },
+
     }),
   
   plugins: [

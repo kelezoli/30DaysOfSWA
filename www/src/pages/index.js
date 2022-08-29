@@ -6,23 +6,26 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
-// Import roadmap
+// Import bannerpage
 import Image from '@theme/IdealImage';
-import roadmap from './../../static/img/png/week1-roadmap.png';
+import frontpagebanner from './../../static/img/png/dummy_banner_frontpage.png';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        {/* 
+        
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        */}
-        <h3> #30DaysOfSWA - Jumpstart Your Learning! </h3>
-        <Link to="roadmap">
-          <Image img={roadmap} className={styles.featureImg} />
+        <Link to="docs/Introduction">
+          <Image img={frontpagebanner} className={styles.featureImg} />
         </Link>
+        <Link
+              className="button button--secondary button--lg"
+              to="/docs/introduction">
+              Open the hadbook here! 
+            </Link>
       </div>
     </header>
   );
