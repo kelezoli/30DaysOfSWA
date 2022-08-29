@@ -1,0 +1,3 @@
+<figure class="video-container">
+  <iframe src="//www.slideshare.net/slideshow/embed_code/key/C3QrOdYHrRyB7d" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style={{border: "1px solid #CCC", borderWidth: "1px", marginBottom: "5px", maxWidth: "100%"}} allowfullscreen></iframe>
+</figure>
