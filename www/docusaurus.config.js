@@ -6,16 +6,16 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DIGITAL REALITY',
-  tagline: 'Introductory handbook for skills trainers and teachers',
+  title: 'How to get results',
+  tagline: '',
   url: 'https://www.kelemenzoltan.com',
-  baseUrl: '/drinvet/',
+  baseUrl: '/gerapp/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   // -- Customized for Deployment Configuration
   organizationName: '', // Usually your GitHub org/user name.
-  projectName: 'DRinvet', // Usually your repo name.
+  projectName: 'GER-APP', // Usually your repo name.
   trailingSlash: false,
   // deploymentBranch: `gh-pages`, // default = gh-pages
 
@@ -63,9 +63,9 @@ const config = {
         maxHeadingLevel: 3,
       },
       navbar: {
-        title: 'DIGITAL REALITY',
+        title: 'Home',
         logo: {
-          alt: 'DRinVET logo',
+          alt: 'GER-APP logo',
           src: 'img/svg/logo.svg',
         },
         items: [
@@ -73,12 +73,11 @@ const config = {
             type: 'doc',
             docId: 'Introduction',
             position: 'left',
-            label: 'Handbook',
+            label: 'Toolbox',
           },
-          {href: '/about', label: 'About', position: 'left'},
           {
-            href: 'sthing',
-            label: 'GitHub',
+            href: 'https://gerapp.eu/',
+            label: 'Gerapp Main page',
             position: 'right',
           },
         ],
@@ -128,7 +127,7 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DrinVET </a> - Built with <a href="https://docusaurus.io"> Docusaurus </a>  - Created by <a href="https://learnvirtual.eu"> Learning Virutal Europe </a>`,
+        copyright: `Copyright © ${new Date().getFullYear()} Inactivity is not an option (GER-APP) </a> - Built with <a href="https://docusaurus.io"> Docusaurus </a>  - Created by <a href="https://matraheg.hu/"> MatraHEG </a>`,
       },
       prism: {
         theme: lightCodeTheme,

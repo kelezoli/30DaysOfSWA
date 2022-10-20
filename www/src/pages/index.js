@@ -8,7 +8,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 // Import bannerpage
 import Image from '@theme/IdealImage';
-import frontpagebanner from './../../static/img/png/dummy_banner_frontpage.png';
+import frontpagebanner from './../../static/img/png/front.png';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -21,11 +21,9 @@ function HomepageHeader() {
         <Link to="docs/Introduction">
           <Image img={frontpagebanner} className={styles.featureImg} />
         </Link>
-        <Link
-              className="button button--secondary button--lg"
-              to="/docs/introduction">
-              Open the hadbook here! 
-            </Link>
+        
+  
+         
       </div>
     </header>
   );

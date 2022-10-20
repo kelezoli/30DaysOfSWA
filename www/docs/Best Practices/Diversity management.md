@@ -1,0 +1,5 @@
+# Diversity management
+
+The Resource Centre Diversity Management was developed within EU transfer, implements social innovations for employees aged 50+, and their employers based on innovative successfully implemented corporate models, which guarantee active workforce in the later life phase.
+
+ This new corporate environment provides support and training to employees aged 50+, needed for their adaptation to the new labor market requirements caused by the changed demographic and economic conditions. The Resource Center for diversity management works with methodology and training program for people aged 50+ aimed at developing of specific skills and promoting learning in the later life. Trained consultants are available for career guidance courses and consultancies for employees aged 50+. It serves not only the employees in this age group but also their employers, providing them with innovative management elements that contributes to adapt the business to the new modern market conditions.
