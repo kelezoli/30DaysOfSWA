@@ -6,50 +6,46 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'DIGITAL REALITY',
-  tagline: 'Introductory handbook for skills trainers and teachers',
+  title: 'DRinVET HANDBOOK',
+  tagline: 'Digital Reality - the basis of skills training',
   url: 'https://www.kelemenzoltan.com',
   baseUrl: '/drinvet/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  // -- Customized for Deployment Configuration
+  favicon: 'img/favicon-32x32.png',
+
+  // GitHub pages deployment config.
+  // If you aren't using GitHub pages, you don't need these.
   organizationName: '', // Usually your GitHub org/user name.
-  projectName: 'DRinvet', // Usually your repo name.
-  trailingSlash: false,
-  // deploymentBranch: `gh-pages`, // default = gh-pages
+  projectName: '', // Usually your repo name.
+
+  // Even if you don't use internalization, you can use this field to set useful
+  // metadata like html lang. For example, if your site is Chinese, you may want
+  // to replace "en" with "zh-Hans".
+/*  i18n: {
+    defaultLocale: 'en',
+    locales: ['en'],
+  },*/
 
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        
-      
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
           
         },
-      
-/*        blog: {
+        blog: {
           showReadingTime: true,
-          blogSidebarCount: 'ALL',
-          blogSidebarTitle: 'Most Recent Posts',
-          postsPerPage: 1,
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          
         },
-*/       
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
-        },
-/*        gtag: {
-          trackingID: 'G-XQTX19ZF9V',
-          anonymizeIP: true,
-        }, */
-        sitemap: {
-          changefreq: 'weekly',
-          priority: 0.5,
-          ignorePatterns: ['/tags/**'],
         },
       }),
     ],
@@ -58,35 +54,41 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      tableOfContents: {
-        minHeadingLevel: 2,
-        maxHeadingLevel: 3,
-      },
       navbar: {
-        title: 'DIGITAL REALITY',
+        title: 'DRinVET',
         logo: {
           alt: 'DRinVET logo',
           src: 'img/svg/logo.svg',
         },
-        items: [
+        items: 
+        [
           {
             type: 'doc',
             docId: 'Introduction',
             position: 'left',
             label: 'Handbook',
           },
-          {href: '/about', label: 'About', position: 'left'},
-          {
-            href: 'sthing',
-            label: 'GitHub',
-            position: 'right',
-          },
+  
+          {to: 'showcase', 
+          label: 'Showcase', 
+          position: 'left', },
+
+          {to: 'team', 
+          label: 'The team', 
+          position: 'right',
+        AcitveBaseRegex:'Team' },    
+                
+                    {
+                      href: 'https://github.com/facebook/docusaurus',
+                      label: 'GitHub',
+                      position: 'right',
+                    } ,
         ],
       },
       footer: {
         style: 'light',
         links: [
-          /*
+                    /*
           {
             title: 'Docs',
             items: [
@@ -128,62 +130,34 @@ const config = {
           },
           */
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DrinVET </a> - Built with <a href="https://docusaurus.io"> Docusaurus </a>  - Created by <a href="https://learnvirtual.eu"> Learning Virutal Europe </a>`,
-      },
+        logo: {
+          alt: 'DRinVET Logo',
+          src: 'img/png/footer_erasmus_drinvet_logo.png',
+          href: 'https://https://drinvet-project.eu/',
+
+        },
+
+        copyright: `Created by <a href="https://learnvirtual.eu/"> Learn Virtual Europe</a> </br>
+        Copyright © ${new Date().getFullYear()} </br>The European Commission's support for the production of this publication does not constitute an endorsement of the contents, which reflect the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</br> ERASMUS + KA2: 2020-1-HR01-KA226-VET-094650.  `,
+      }, 
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-
-      image: 'img/logo.png',
-
-      metadata: [
-        {
-          name: 'twitter:url', 
-          content: 'https://aka.ms/30DaysOfSWA'
-        },
-        {
-          name: 'twitter:title', 
-          content: 'Learn Azure Static Web Apps in #30DaysOfSWA'
-        },
-        {
-          name: 'twitter:description', 
-          content: 'Learn @AzureStaticApps from Core Concepts to Best Practices in #30DaysOfSWA at https://aka.ms/30DaysOfSWA'
-        },
-        {
-          name: 'twitter:image', 
-          content: 'https://www.azurestaticwebapps.dev/assets/images/series-people-13a2856edd7022e82a252ed05dffbabc.png'
-        },
-        {
-          name: 'twitter:card', 
-          content: 'summary_large_image'
-        },
-        {
-          name: 'twitter:creator', 
-          content: '@nitya'
-        },
-        {
-          name: 'twitter:site', 
-          content: '@AzureStaticApps'
-        },
-
-      ],
-
-
     }),
-  
-  plugins: [
-    [
-      '@docusaurus/plugin-ideal-image',
-      {
-        quality: 70,
-        max: 1030, // max resized image's size.
-        min: 640, // min resized image's size. 
-        steps: 2, // #images b/w min and max (inclusive)
-        disableInDev: false,
-      },
-    ],
-  ],
+
+    plugins: [
+      [
+        '@docusaurus/plugin-ideal-image',
+        {
+          quality: 70,
+          max: 1030, // max resized image's size.
+          min: 640, // min resized image's size. 
+          steps: 2, // #images b/w min and max (inclusive)
+          disableInDev: false,
+        },
+      ],
+    ],    
 };
 
 module.exports = config;

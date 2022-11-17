@@ -2,20 +2,22 @@
 sidebar_position: 5
 ---
 
+![jumping a ball](./balljump_wide_900.png)
 IN THIS CHAPTER
 
-- Step back and see your organisation 
+- Step back and examine your organization 
 - Understanding factors that works against change
 - Give ideas to avoid traps in implementation
 
-## Organisation Development perspective
+
+## Organization Development perspective
 
 Implementing brand new ideas is a struggling process even when the expected outcome is obviously delighting when we look back. Think of the attitude towards new inventions such as the telephone 
 > "People admitted that telephones were ingenious contraptions and wondered just how they worked, but they no more thought of getting one of their own than the average man now thinks of getting an airplane. As a matter of fact, for a long time they were of little use in a home. Since almost nobody had them but brokers, there was no one to talk to.” (New Yorker, 1933) [^1]
 
 [^1]    <https://www.theatlantic.com/technology/archive/2015/09/when-the-telephone-was-dangerous/626742/>
 
-Before we put on Virtual Reality glasses, we'd better step back and put on another one, the Organisational Developer's (OD) spectaculars. We humans do not like change so much and do a lot to regain the status quo.  With careful planning however, a good project team can avoid the most common traps that work against change. That is why we start with the question: 
+Before we put on Virtual Reality glasses, we'd better step back and put on another one, the Organizational Developer's (OD) spectaculars. We humans do not like change so much and do a lot to regain the status quo.  With careful planning however, a good project team can avoid the most common traps that work against change. That is why we start with the question: 
 
 ## What is your situation? 
 
@@ -25,10 +27,45 @@ Are you a teacher in a public school? Or do you work in a private skills center?
 
 The most common situation in public schools is that modernizing is a struggling process. Resources are limited, there are a lot of students, the structure of the traditional teaching is strong and reluctant to change. There are cases when a school invests in a simulator that ends up in the garage eventually. Unpacked. Our interviews revealed numerous traps slowing down or even preventing a breakthrough. 
 
-- **Attitude** The school staff may have different attitudes towards new solutions. A few enthusiastic teachers may have seen digital reality solutions at a fair, and managed to convince the director to buy one. But what do the other teachers think? The ones who just came to realize right before the beginning of the semester that they have to learn a new skill and on top of that, they must reorganise their good old ways of teaching, risking their efficiency. Who wants that? May the new tool reveal that some parts of their skills are outdated? Or do they have only a few years left until retirement and have no intention to learn new things at all? They may be enthusiastic. Or overwhelmed. Or jealous. Or very skeptical. In short, you must consider the possible attitudes of your colleagues and form a good sales plan for them in advance.  
-- **Motivation** Lack of intrinsic motivation may result in bad choices. Government directives, for example, may suggest to invest in new tools. Directors may realize that they have unspent items in the grants for the year so they decide to buy digital boards, a simulator with a VR glass and LEGO robots.  But where should they install them in the building? Who will do the programming parts? And where should they put the special tables for the robots? And they should rewire the wall in a classroom to triple the electric sockets available. On what extent the curriculum should be altered and who will rewrite it? Do they need new special expertise? On the top of that, who will sell the changes to the staff? There is a  chance that the smart tables will never be switched on, the LEGO robots will be found in glass boxes at the end of the corridor, and the simulator will be used only in marketing events.  The root cause is the lack of motivation. If there was no money granted, nothing would happen. This is not good. Try to seek good and realistic goals that motivate your staff and the decision makers to find money for them and write a good plan to convince them!
-- **Reorganisation** New tools often require new methods in teaching, new organisation schemes in the class, new timing, new logistics, new spaces.  If, for example, a painter class has a brand new simulator, then there will be questions to answer: how many students can it serve simultaneously? What should the teacher do with the other students? How long will it take to restart with a different configuration for the next class or the next student? One hour long class will be okay or shall we allocate double hours ? Does the simulator have a one size fits all VR glass with adjustable buckles? If yes, should you have multiple glasses to avoid downtimes that comes with the readjusting to fit the next student head? And how to avoid virus infections using the same VR glass? Is the simulator transportable easily? If not, where should they be installed? Does it have infrared sensors? Will it work in a darkroom only? 
-- **Maintenance** There are two aspects here. One is the service level the seller may provide you in terms of costs of support, updates, planned and unplanned availability and spare parts. There are pricing plans that focus on your needs and after initial investments the majority of the support is almost free (software updates for example). Other pricing plans are the opposite: producers offers solutions for a relatively low price, but the updates and maintenance will cost higher.  The other aspect, however, is your own maintenance ability. This is definitely an organisational issue, and needs considerable effort. You may have received a really good Digital Reality device and everybody was happy. Students love it, you love it. But if you are the only one, who thoroughly reads the manual, and regularly contacts the support guy, then you made a mistake. After a while you realize that you have  painted yourself into a corner by accepting that the other teachers have no time or even worse, are not willing to learn the details of the configuration. And when you leave, the  goes into a dusty cupboard in the cellar because nobody really knows how to set it up and fix it but you. To avoid this, you should regularly share your knowledge with your colleagues, invite them to training sessions or make a website with the common faults and their fixes. You may include teaching tips and tricks. Not long after you will realize that your contribution to the community will return in less stress and professional common knowledge.
+<details><summary>TRAP 1: DIFFERENT ATTITUDES TOWARDS VR. Some may fear of loosing job, or see too hard or risky to learn new ways in teaching <i> Click here to read more</i> ...</summary>
+<p>
+
+The school staff may have different attitudes towards new solutions. A few enthusiastic teachers may have seen digital reality solutions at a fair, and managed to convince the director to buy one. But what do the other teachers think? The ones who just came to realize right before the beginning of the semester that they have to learn a new skill and on top of that, they must reorganise their good old ways of teaching, risking their efficiency. Who wants that? May the new tool reveal that some parts of their skills are outdated? Or do they have only a few years left until retirement and have no intention to learn new things at all? They may be enthusiastic. Or overwhelmed. Or jealous. Or very skeptical. In short, you must consider the possible attitudes of your colleagues and form a good sales plan for them in advance. 
+
+</p>
+</details>
+
+<details><summary>TRAP 2: LACK OF MOTIVATION. Lack of intrinsic motivation may result in bad choices. Who wants you to improve, you or someone else? If an investment is done just because there is money left on the account <i> Click here to read more</i> ...  </summary>
+<p>
+
+Government directives, for example, may suggest to invest in new tools. Directors may realize that they have unspent items in the grants for the year so they decide to buy digital boards, a simulator with a VR glass and LEGO robots.  But where should they install them in the building? Who will do the programming parts? And where should they put the special tables for the robots? And they should rewire the wall in a classroom to triple the electric sockets available. On what extent the curriculum should be altered and who will rewrite it? Do they need new special expertise? On the top of that, who will sell the changes to the staff? </p>
+<p>There is a  chance that the smart tables will never be switched on, the LEGO robots will be found in glass boxes at the end of the corridor, and the simulator will be used only in marketing events.  The root cause is the lack of motivation. If there was no money granted, nothing would happen. This is not good. Try to seek good and realistic goals that motivate your staff and the decision makers to find money for them and write a good plan to convince them!
+
+</p>
+</details>
+
+<details><summary>TRAP 3: REOrganizaTION ISSUES. New tools often require new methods in teaching. What your colleguages will react when facing changes in curriculum? <i> Click here to read more</i> ...</summary>
+<p>
+
+When new tools are introduced in teaching, new questions will arise about organization schemes, timing and logistics.  If, for example, a painter class has a brand new simulator, then there will be questions to answer:</p>
+<p> how many students can it serve simultaneously? </p>
+<p>What should the teacher do with the other students? </p>
+<p>How long will it take to restart with a different configuration for the next class or the next student? One hour long class will be okay or shall we allocate double hours ? </p>
+<p>Does the simulator have a one size fits all VR glass with adjustable buckles? If yes, should you have multiple glasses to avoid downtimes that comes with the readjusting to fit the next student head? And how to avoid virus infections using the same VR glass? Is the simulator transportable easily? If not, where should they be installed? Does it have infrared sensors? </p>
+<p>Will it work in a darkroom only?
+If this questons are anwered in time the chances of a succesful implementation will increase significantly. Lack of answers will lead to an unhappy end.
+</p>
+</details> 
+
+<details><summary>TRAP 4: MAINTENANCE. There are two aspects here: service leve promised (or not) and your own maintenance ability. <i> Click here to read more</i> ... </summary>
+<p>
+One is the service level the seller may provide you in terms of costs of support, updates, planned and unplanned availability and spare parts. There are pricing plans that focus on your needs and after initial investments the majority of the support is almost free (software updates for example). </p>
+<p> Other pricing plans are the opposite: producers offers solutions for a relatively low price, but the updates and maintenance will cost higher. </p>
+<p> The other aspect, however, is your own maintenance ability. This is definitely an organizational issue, and needs considerable effort. You may have received a really good Digital Reality device and everybody was happy. Students love it, you love it. But if you are the only one, who thoroughly reads the manual, and regularly contacts the support guy, then you made a mistake. After a while you realize that you have  painted yourself into a corner by accepting that the other teachers have no time or even worse, are not willing to learn the details of the configuration. And when you leave, the  goes into a dusty cupboard in the cellar because nobody really knows how to set it up and fix it but you. </p>
+<p>To avoid this, you should regularly share your knowledge with your colleagues, invite them to training sessions or make a website with the common faults and their fixes. You may include teaching tips and tricks. Not long after you will realize that your contribution to the community will return in less stress and professional common knowledge.
+</p>
+</details>
+
 
 ## Situation two: Skill Centers
 
@@ -69,7 +106,6 @@ This story is not new. It happened in 2008. Competition in cost effectiveness is
 
 ​      Challenges in reorganization of classrooms, methods, skills attitudes.
 
-  
 
   **Approaches in development**
 
@@ -78,3 +114,6 @@ This story is not new. It happened in 2008. Competition in cost effectiveness is
 ​    **Producers**
 
 ​      Key players and their strategies
+
+
+This part of the handbook is written by [Learn Virtual Europe](https://learnvirtual.eu/en/) a distributor in Hungary. 

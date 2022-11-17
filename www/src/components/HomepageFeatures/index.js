@@ -4,84 +4,32 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'An introduction',
+    title: 'Instructor 2.0',
     Svg: require('@site/static/img/svg/logo.svg').default,
-    link: "roadmap",
+    link:"docs/instructor 2_0",
     description: (
       <>
-          This handbook is an introduction to Digital Reality tools and approaches in vocational education.
-      </>
-    ),
-  },
-  /*
-  {
-    title: 'Building Blocks',
-    Svg: require('@site/static/img/svg/landing-blocks.svg').default,
-    link: "/roadmap#core-concepts",
-    description: (
-      <>
-        Learn core concepts behind Azure Static Web Apps. Setup your dev environment.
+        A new role emerges. Digital instructors are experts of implementation, use, and teach with virtual tools.
       </>
     ),
   },
   {
-    title: 'Usage Examples',
-    Svg: require('@site/static/img/svg/landing-action.svg').default,
-    link: "/roadmap#usage-examples",
+    title: 'Before you choose',
+    link:"./docs/Before you choose",
+    Svg: require('@site/static/img/svg/choice_icon.svg').default,
     description: (
       <>
-        See Static Web Apps in action with front-end frameworks,  static site generators.
+A guide to navigate in the market. Listing important aspects to consider when selecting a solution.
       </>
     ),
   },
   {
-    title: 'Developer Tools',
-    Svg: require('@site/static/img/svg/landing-devtools.svg').default,
-    link: "/roadmap#developer-tools",
+    title: 'Keep it simple',
+    Svg: require('@site/static/img/svg/keepitsmiple.svg').default,
+    link:"./docs/Pedagogical Guidelines/Keep it simple",
     description: (
       <>
-        Explore tools and workflows that create the optimal developer experience.
-      </>
-    ),
-  },
-  {
-    title: 'Best Practices',
-    Svg: require('@site/static/img/svg/landing-tips.svg').default,
-    link: "/roadmap#best-practices",
-    description: (
-      <>
-       Design better end-to-end user experiences with rich service integrations.
-      </>
-    ),
-  },
-  {
-    title: 'SWA Anniversary',
-    Svg: require('@site/static/img/svg/landing-anniversary.svg').default,
-    link: "https://aka.ms/swaanniversary",
-    description: (
-      <>
-        Join us May 19 for our SWA Anniversary. Watch it live or catch the replay.
-      </>
-    ),
-  },
-  */
-  {
-    title: 'For teachers and trainers',
-    Svg: require('@site/static/img/svg/landing-showcase.svg').default,
-    link: "thismonth",
-    description: (
-      <>
-      A guide to navigate in the terms, tools and approaches. Listing opportunities and pitfalls
-      </>
-    ),
-  },
-  {
-    title: 'Handbook style',
-    Svg: require('@site/static/img/svg/landing-tips.svg').default,
-    link: "showcase",
-    description: (
-      <>
-        Easy to read format with a sidebar on the left with the contents. The material is tailored for you.
+        Here you find simple but clever solutions to gamify materials, entertain and teach students.
       </>
     ),
   },
