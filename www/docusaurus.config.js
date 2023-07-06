@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DRinVET HANDBOOK',
   tagline: 'Digital Reality - the basis of skills training',
-  url: 'https://www.kelemenzoltan.com',
-  baseUrl: '/drinvet/',
+  url: 'https://drinvet-project.eu',
+  baseUrl: '/basics/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon-32x32.png',
@@ -58,7 +58,7 @@ const config = {
         title: 'DRinVET',
         logo: {
           alt: 'DRinVET logo',
-          src: 'img/svg/logo.svg',
+          src: 'img/svg/logo.svg', /*drinvet_logo_vektor_blue_bkgrnd.svg', */
         },
         items: 
         [
@@ -79,8 +79,8 @@ const config = {
         AcitveBaseRegex:'Team' },    
                 
                     {
-                      href: 'https://github.com/facebook/docusaurus',
-                      label: 'GitHub',
+                      href: 'https://www.drinvet-project.eu/',
+                      label: 'Back to the main site',
                       position: 'right',
                     } ,
         ],

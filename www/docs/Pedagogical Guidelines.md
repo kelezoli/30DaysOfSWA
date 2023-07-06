@@ -3,13 +3,38 @@ sidebar_position: 6
 ---
 ![Ped_guides](/img/png/Ped_guidelines.png)
 # In this guide
+* A few words about didactic methods
 * overview the approaches we suggest to use in DRinVET 
 * find useful tips how you enrich your teaching skills with DR tools
 * learn how to prepare to the first lessons with DR tools.
 * learn about immersive learning
 
 
-## Approach one: Learn See Practice Do
+## **Selecting the appropriate methods**
+AR and VR solutions are versatile tools and capable to implement a numerous didactic approaches. Each approach listed here are tools for your chosen learning objectives.
+
+* **Drill**
+    Exercises with different length and difficulty are repeated until the learners masters it. One example of a remarkably well organized online skill development is available at [Line of Action](https://www.line-of-action.com). This is not a VR or AR solution, but because of the clear didactic the site is worth to visit. 
+* **Demonstrating**
+Educators demonstrate activities and explain their approach. Trainees examine and ask questions to do the activity later on.
+* **Task based learning** 
+Trainees retain information by completing tasks and exercises. VR and AR products' interactive features promote teachers to provide immediate feedback.
+* **Teaching the scientific method**
+The idea comes form Problem Based Learning (PBL) Initially the trainees are presented a problem such as a phenomenon or a technical issue or funtion. Then the trainees should bring concepts and solutions. If they ready, they also asked to generalize their findings. This final part often ends with forming a hypothesis and testing it.
+* **Revolving roles**
+The core idea of revolving roles is simple: a whole activity is divided into constituent tasks and participants take turns to do those tasks, working alone or in teams. Revolving roles also is a format  of  of organising the classroom, in which trainees work in a self-directed way with predefined roles and or different stations in the classroom. One example is [here](https://www.timeshighereducation.com/campus/revolving-roles-creating-inclusive-engaging-participantled-learning-activities)
+* **Learning by teaching**
+Learning by teaching allows students to be a teacher. Passing the responsibility to the trainee is a challenge which result a deep understanding of certain materials.
+
+* **Sandbox**
+Sandbox is a form of teaching which allows trainees freedom the time, content sometimes locations or venue. They may work alone or in a group. Here it is an example for [Docusaurus Playground](https://docusaurus.io/docs/playground) the programming environment this site is written in. 
+Most of the high quality simulators offer sandboxes allowing trainees just to play freely and for fun.
+
+* **Gamification**
+As VR and AR solutions are highly interconnected with the gaming world, game-based learning comes easy in teaching with immersive devices. Emotions are great driving forces that rise involvement and motivation. Even for older generation, after breaking the skepticism, through games they see the immersive didactic methods simulators offer very valuable assets.
+
+
+## **Approach one:** Learn See Practice Do
 The framework is originated from procedural skills development in medicine. We describe an evidence based, pedagogical framework for teaching procedural skills. The framework has six key steps *learn*, *See*, *Practice*, *Prove*, *Do*, and *Maintain* —based on a review and critical [synthesis of the literature](https://www.uab.edu/simulation/images/Learn_See_Practice_Prove_Do_Maintain.pdf).
 The proposed framework includes **simulation** as a key educational modality and incorporates proven instructional design features, such as deliberate practice and mastery learning, as critical components.
 
@@ -24,15 +49,14 @@ The proposed framework includes **simulation** as a key educational modality and
 
 
 :::info Sources
-For more information on the DRinVET site, please [CLICK HERE](https://somelink.io).
 Click to download the full source [HERE](https://www.uab.edu/simulation/images/Learn_See_Practice_Prove_Do_Maintain.pdf)
 :::
 
 
-## Approach two: Four-Component Instructional Design 
+## **Approach two:** Four-Component Instructional Design 
 
-4C/ID is an instructional design approach for complex learning; that is, learning aimed at integrative goals where knowledge, skills, and attitudes are developed simultaneously. It provides guidelines for the analysis of real-life tasks and the transition into a blueprint for an educational program.
-The learn more please visit the [4c/ID organisation's webiste](https://www.4cid.org/)
+Four-Component Instructional Design (4C)/ID) is a teaching design approach for complex learning; that is, learning aimed at integrative goals where knowledge, skills, and attitudes are developed simultaneously. It provides guidelines for the analysis of real-life tasks and the transition into a blueprint for an educational program.
+To learn more please visit the [4c/ID organisation's webiste](https://www.4cid.org/)
 Here we do not explain the well proven principles in detail, but bring a short example of applying some of the principles in teaching vehicle painting with simulators.
 
 ### The case
@@ -65,6 +89,10 @@ Ore trainers may present a pre-play. In pre-plays, trainers will record themselv
 ![heatmap](/img/png/heatmap.png)
 A "heatmap" showing different thicknesses in coat. Source: [LVE](https://learnvirtual.eu)
 
+
+:::info List of designs
+There are a plenty of designs you can use when you want to build your curriculum. A good comprehensive article about the most popular ones are [available here](https://bigthink.com/plus/instructional-design-models/).
+:::
 
 ### Another useful tip: Timing and grouping
 Most of the experiences here come from welding and painting. In reality the student would have idle times. In DR training a student can do 10 times more exercises on average. Based on experiences, the optimal duration with VR or AR glasses is no longer than 5 minutes for a person. After that the student will need at least a 5 minute long break. Let us suppose you have one simulator for 9 students in 45 minutes active time. A very practical solution is to split up a group into  triads (3 people groups). Now you have one trad on the simulator that will rotate in 5 minutes. The other two triads do something else. In the second 15 minutes the second triad use the simulator and so on.

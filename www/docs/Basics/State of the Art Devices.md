@@ -5,8 +5,9 @@ sidebar_position: 7
  
 
 # VR - Current State of the ART
-*by [Virsabi](https://virsabi.com/)*
-![VR walkers](/img/png/VR_state_of_art_closeup.png)
+
+![VR walkers](/img/png/strangersinthecity.png)
+*The collection below is written by [Virsabi](https://virsabi.com/)*
 
 Virtual and augmented reality is a thriving industry with many consumer and enterprise headsets both released, unreleased but announced, and rumoured. It can be challenging to keep track of them all. This article highlights all the upcoming VR and AR solutions releasing in 2022, the ones confirmed to launch, and the rumoured headsets that we can only wait in anticipation for. (*Source: [VR-expert](https://vr-expert.com/upcoming-vr-and-ar-headsets-for-2022-and-beyond/)*)
 

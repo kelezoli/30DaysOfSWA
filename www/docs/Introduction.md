@@ -33,10 +33,14 @@ We wrote this book for you because we'd like to :
 * offer tips new ideas to make learning delightful and funny 
 * Guidelines for teaching with these tools.
 
+:::info Immersive technologies are supportive
+Please bear in mind that immersive technologies are complements not substitutes. They help and support by avoiding health risks, reducing costs, gamifying content or improving learning efficacy. Never a beginner can really fly an Jumbo Jet after trainings in a flight simulator!
+:::
+
 ## Assumptions
 ![Tom Sawyer](/img/png/tom_sawyer.png)
 
-Before we dive into the world of Digital Reality, we should say a few words about reality in vocational education. Some training centers are well equipped and have numerous well trained Digital Instructors. Most of them, however, are far from being aware of the whole range of opportunities digital realities offer. To be realistic, we assume you may work in a school with a centralized educational system with limited influence and resources. We detail [typical situations](Obstacles%20in%20the%20organization.md) in the chapter "Obstacles in the organization".
+Before we dive into the world of Digital Reality, we should say a few words about reality in vocational education. Some training centers are well equipped and have numerous well trained Digital Instructors. Most of them, however, are far from being aware of the whole range of opportunities digital realities offer. To be realistic, we assume you may work in a school with a centralized educational system with limited influence and resources. We detail [typical situations](Digital%20Reality%20in%20VET/Obstacles%20in%20the%20organization) in the chapter "Obstacles in the organization".
 
 We assume that you as a teacher have at least a passing familiarity with Virtual Reality (VR),  Augmented Reality (AR). You may have heard the terms or seen someone trying out a VR experience at a mall or retailer. We assume that you have a cursory knowledge of using learning management software (LMS) such as Moodle, or Google Classroom. You use or are aware of social media such as Facebook or Instagram. You used or saw using videoconferencing tools like Zoom or Microsoft Teams. You are capable to install, run applications on smartphones and personal computers (PCs). And at last but not at least, you are interested in new teaching methodologies the digital world offers.
 
@@ -49,7 +53,7 @@ We have assumptions about your students. We think, your students may fall into t
 * Low but not very low social status with a remarkable support to break out. Gifted students with help of teachers or parents for example.
 * High social status with strong commitment. For example, coming from a traditional crafting or artist family, or,  as an adult, choosing a second career path.  
 
-And our last assumpiton is that the education or training process usually lasts three years which is taken mainly in a dual system.
+And our last assumption is that the education or training process usually lasts three years which is taken mainly in a dual system.
 
 ## How we organized this book
 
@@ -59,7 +63,7 @@ This is a handbook, planned to look up things in it occasionally.  We list ideas
 
 ### Sidebars
 
-**<--** The left sidebar will show you the structure of the chapters. If you click on the ```>``` sign next to a title the roll down menu will show you the sub-chapters underneath. If you click on the sign again, it will roll up and close.
+**<--** The left sidebar will show you the structure of the chapters. If you click on the ```>``` sign next to a title the roll-down menu will show you the sub-chapters underneath. If you click on the sign again, it will roll up and close.
 
 The right sidebar is for navigating within one block as you can see now **-->**  
 
@@ -71,12 +75,12 @@ If you are reading this on a smartphone or a tablet you find the sidebars on the
 
 ### Signs
 :::note
-We highliht some **content** with this notification sign if recommended for your interest. Further readings for example..
+We highlight some **content** with this notification sign if recommended for your interest. Further readings for example..
 :::
 
 :::tip
 
-We use this if we sugesst tips and tricks.
+We use this if we suggest tips and tricks.
 
 :::
 
@@ -94,12 +98,12 @@ We use C A U T I O N for some **content** if something crucial to remember (orga
 
 :::danger
 
-Some **content** will be highlighted with this strange red to draw your attenton to health risk or other kind of dangers.
+Some **content** will be highlighted with this strange red to draw your attention to health risk or other kind of dangers.
 
 :::
 
-### Rolldowns
-There are information that will be too long for one page. That is why sometimes we use **rolldowns** in  the text. Rolldowns contains information hidden under a short summary and you can click on them to reveal the content. If you click again the hidden content disappears. Try it below.
+### accordions
+There are information that will be too long for one page. That is why sometimes we use **accordions** in  the text. accordions contains information hidden under a short summary and you can click on them to reveal the content. If you click again the hidden content disappears. Try it below.
 <details><summary>CLICK ME - can be followed by a short summary  like this... </summary>
 <p>
 Click on the fruit names to see how to change between tabs
@@ -126,7 +130,7 @@ And a kind of information that may be interesting.
 </details>
 
 ### Tabs
-You will see sometimes tabs in the text just like in the rolldown above. We use them to ease the eye when sequential arrangement of information would make understanding difficult. Tabs usually used when you want to present the same thing in different versions or a subject in different state like a man before and after loosing weight. 
+You will see sometimes tabs in the text just like in the accordion above. We use them to ease the eye when sequential arrangement of information would make understanding difficult. Tabs usually used when you want to present the same thing in different versions or a subject in different state like a man before and after loosing weight. 
 
 
 

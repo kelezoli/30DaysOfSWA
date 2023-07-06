@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@docusaurus/plugin-ideal-image": "^2.1.0"
+    "@docusaurus/plugin-ideal-image": "^2.1.0",
+    "puppeteer": "^19.3.0"
   }
 }

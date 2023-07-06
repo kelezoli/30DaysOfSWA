@@ -5,8 +5,8 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Instructor 2.0',
-    Svg: require('@site/static/img/svg/logo.svg').default,
-    link:"docs/instructor 2_0",
+    Svg: require('@site/static/img/svg/instructor.svg').default,
+    link:"docs/Instructor 2_0",
     description: (
       <>
         A new role emerges. Digital instructors are experts of implementation, use, and teach with virtual tools.
@@ -15,8 +15,8 @@ const FeatureList = [
   },
   {
     title: 'Before you choose',
-    link:"./docs/Before you choose",
-    Svg: require('@site/static/img/svg/choice_icon.svg').default,
+    link:"./docs/Digital Reality in VET/Before you choose",
+    Svg: require('@site/static/img/svg/hesitating.svg').default,
     description: (
       <>
 A guide to navigate in the market. Listing important aspects to consider when selecting a solution.
@@ -24,9 +24,9 @@ A guide to navigate in the market. Listing important aspects to consider when se
     ),
   },
   {
-    title: 'Keep it simple',
-    Svg: require('@site/static/img/svg/keepitsmiple.svg').default,
-    link:"./docs/Pedagogical Guidelines/Keep it simple",
+    title: 'Pedgagogical Guidelines',
+    Svg: require('@site/static/img/svg/ped_guide_timber.svg').default,
+    link:"./docs/Pedagogical Guidelines",
     description: (
       <>
         Here you find simple but clever solutions to gamify materials, entertain and teach students.

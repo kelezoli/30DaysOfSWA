@@ -36,7 +36,7 @@ There are producers who integrate moving physical parts in the simulators.
 **Cons:** After a certain lifetime the product will need spare parts or fixing. If the producer is overseas the repair will take a long time. Real parts may prevent very fine psychomotor motions. Using only virtual parts makes learning harder but leads to learn a very precise motion. 
 
 :::info Example: textile industry
-In a training center Eger, Hungary Virtual Welding simulators that use no moving parts, are introduced in sewing class curriculum, because of their extremely high accuracy in psychomotor skills improvement. Source: *(customer testimony by the school to be found!)*
+In a training center Eger, Hungary Virtual Welding simulators that use no moving parts, are introduced in sewing class curriculum, because of their extremely high accuracy in psychomotor skills improvement. Source: *(Learn Virtual Europe)*
 :::   
 
 Here is a specific example from welding. An important difference of "cheap" optical motion transmission system: it cannot realize and display the weight loss of the electrode during welding. It only senses that the end of the device is in front of the workpiece, but it cannot simulate the weight loss of the welding material in real time, thus teaching poor movement coordination.… 
@@ -53,14 +53,7 @@ Without a **good pedagogical system**, the simulator is useless in vocational tr
 Some manufacturers do not have a record of how the simulation can be integrated into practical training in either school system or adult training and the extent to which savings can be realized. Thus, the return period of the product cannot be calculated or estimated. 
 
 ## Mobility
-:::info Need to detail :)
-few sentences with aspects Transportability
-:::
-
-## Size
-:::info Need to detail :)
-few sentences with aspects necessary rooms 
-:::
+You may consider the transportability. Almost each producers offer easy to transport simulators with limited capabilities. There is a trade-off between portabilty and capabilities. If you want a full immersive tower crane with haptic seat, you have to sacrifice easy transport.
 
 ## Customized to person?
 Can the simulation improve concentration skills directly and individually?

@@ -7,7 +7,7 @@ import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Image from '@theme/IdealImage';
-import comicstrip from '/img/png/Comic_strip_final_1.png'; 
+import comicstrip from '/img/png/Comic_strip_final_3.png'; 
 
 
 
@@ -32,7 +32,7 @@ function HomepageHeader() {
          <Link>.</Link>
          <Link
               className="button button--warning button--lg"
-              to="/docs/Switching%20to%20DR%20Education">
+              to="/docs/Roadmap%20to%20DR">
               Get to the Roadmap
          </Link>
             

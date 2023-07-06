@@ -1,10 +1,6 @@
 ---
 sidebar_position: 6
 ---
-
-
-
-# Mixed Reality
 In 2022 only a few MR devices such as  Microsoft HoloLens and  Magic Leap One and Two are publicly available. Nevertheless, other MR [options exist](https://www.aniwaa.com/buyers-guide/vr-ar/best-mixed-reality-headsets/). Some are not available to consumers (because they are intended for enterprise use) or have not yet been officially launched on the market.
 There are already lots of groundbreaking educational apps are available on the market. How do they work? We list four examples to give the idea to use MR in classroom.
 
