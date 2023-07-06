@@ -7,9 +7,13 @@ import styles from './index.module.css';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import Image from '@theme/IdealImage';
+<<<<<<< HEAD
 import comicstrip from '/img/png/Comic_strip_final_3.png'; 
 
 
+=======
+import frontpagebanner from './../../static/img/png/front.png';
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -18,6 +22,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+<<<<<<< HEAD
         
           <Image img={comicstrip} className={styles.featureImg} />
         
@@ -38,6 +43,14 @@ function HomepageHeader() {
             
         </div>
         
+=======
+        <Link to="docs/Introduction">
+          <Image img={frontpagebanner} className={styles.featureImg} />
+        </Link>
+        
+  
+         
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
       </div>
     
     </header>

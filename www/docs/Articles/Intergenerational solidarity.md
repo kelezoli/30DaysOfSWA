@@ -1,0 +1,23 @@
+---
+sidebar_position: 2
+---
+
+# Intergenerational solidarity
+![Street art](/./../static/img/png/streetart_7tips.png)
+*[source](https://www.rawfemme.com/senior-citizens-graffiti-art/)*
+
+*written by **Gordana Đeldum**, Industrial and Trade School Slavonski Brod* 
+
+The fact that EU Day of Solidarity between Generations is celebrated on 29 April speaks to the level of its importance. There is a saying stating that “a society is developed when old people plant trees the shadow of which they will not see.” It should be added that a society is developed to that extent to which it cares about the inclusion of older people in everyday life, indicating that they are still valuable members of the community. The ancient Egyptians believed that Ra, the Sun God, was born from the petals of the lotus, a flower that is considered a symbol of purity, youth and wisdom. Its root is in the mud of the lake, its stem is in the water, and its leaves float on the water surface. When it blossoms in the spring, its gorgeous flowers turn towards the sun, and that is why this flower is reminiscent of a combination of youth and wisdom; everything permeates and one cannot live without the other.
+
+Older people are needed by young people in order to transfer their experience, knowledge and skills, whereas younger people can help older people with their energy and new knowledge in mastering modern technologies that can make their lives easier. When talking about old age, it is very important to refrain from stereotypical notions that old people are weak, tired, dependant and as such not needed by the society. 
+
+It is, in fact, true that during this natural process there is a certain level of deterioration of bodily functions (both physical and cognitive). This, however, does not mean that a person cannot remain active in the retirement period. Due to a better standard and societal development, the life expectancy has generally increased, so, today, with 65 years of age, people start a whole new chapter in their lives where they discover new talents, devote their time to things they couldn’t while they were working and be very active although retired. Intergenerational solidarity, in practice, occurs at almost all levels without people even realizing it. 
+
+For example, this happens in every household where there are at least two generations living under the same roof. Young people, who are still not financially independent, could not survive without the experience and help from the older generation, whereas older people lean on trends of the younger members who help them with technology and buying new appliances. Young generations are more familiar with the world of internet and can help with their knowhow and expertise in the family business or any other activity. 
+
+A very good example of intergenerational solidarity can be found in educational institutions, in schools. The teaching process does not necessarily end when one retires. Some school projects encompass cooperation between generations students, teachers and retired teachers. The retired teachers can transfer their knowledge and experience even more so now than they did while working because in retirement they can devote more time to new ideas. Furthermore, intergenerational solidarity occurs on a daily basis during the teaching process. Although teachers are the managers of the teaching process, oftentimes they cannot do it without the help from their students. Due to the ever faster flow of information and rapid change in lifestyle, sometimes it happens that students better cope with certain situations than their teachers do, so it is a blessing that teachers can benefit from their knowledge and new skills, thus making them valuable stakeholders in the educational process. 
+
+There are numerous examples of the young and old working together in a good and useful manner, be it on a cultural or sporting or any other level. What is important is making everybody realize that one cannot live without the other and that we all need each other. The support can be provided anywhere in one’s home, at the work place or outside it, and it needs to be done by respecting the differences and one’s abilities. Just as the lotus flower cannot display all its beauty without the muddy root and flowers on the water surface, so the world cannot function without all its parts, both the young and the old. Everyone is equally important and equally necessary and can work together towards a better world if they wish to do so.  
+
+*The front photo is curtesy of Project LATA 65, founded by the talented Lara Seixo, is an organization whose goal is to connect older and younger generations through art, to help the elderly happily engage in new forms of contemporary art.*

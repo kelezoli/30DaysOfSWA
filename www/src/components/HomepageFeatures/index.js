@@ -4,16 +4,37 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+<<<<<<< HEAD
     title: 'Instructor 2.0',
     Svg: require('@site/static/img/svg/instructor.svg').default,
     link:"docs/Instructor 2_0",
     description: (
       <>
         A new role emerges. Digital instructors are experts of implementation, use, and teach with virtual tools.
+=======
+    title: 'What is Ageism?',
+    Svg: require('@site/static/img/svg/whatisageism.svg').default,
+    link: "docs/Articles/About ageism",
+    description: (
+      <>
+          Read the articles to get familiar with Ageism - treating a person less favorably than others ...
+      </>
+    ),
+  },
+
+  {
+    title: 'Games',
+    Svg: require('@site/static/img/svg/games.svg').default,
+    link: "docs/Games",
+    description: (
+      <>
+      A guide to navigate in the terms, tools and approaches. Listing opportunities and pitfalls
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
       </>
     ),
   },
   {
+<<<<<<< HEAD
     title: 'Before you choose',
     link:"./docs/Digital Reality in VET/Before you choose",
     Svg: require('@site/static/img/svg/hesitating.svg').default,
@@ -30,6 +51,14 @@ A guide to navigate in the market. Listing important aspects to consider when se
     description: (
       <>
         Here you find simple but clever solutions to gamify materials, entertain and teach students.
+=======
+    title: 'Sites',
+    Svg: require('@site/static/img/svg/sites.svg').default,
+    link: "docs/Sites",
+    description: (
+      <>
+        Look around in the Sites collections to get new ideas and connections.
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
       </>
     ),
   },

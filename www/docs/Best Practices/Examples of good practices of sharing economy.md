@@ -1,0 +1,49 @@
+# Examples of sharing economy
+
+Transport, housing, accomodation, sharing objects and services
+
+## Transport and mobility
+
+Public transport is a traditional and most used form of shared transport, as passengers share the same means of transport (bus, train). However, in recent years the development of ICT and the sharing economy has enabled new forms. 
+
+**Carpooling** (also ridesharing) is sharing of car journeys; the driver shares the space in the car with other passengers and consequently also the cost of a trip he/she would do anyway. With more people sharing one car and travel costs (fuel, tolls), carpooling not only reduces the cost of transport for each passenger, but also carbon footprint, congestion on the roads and the need of parking spaces. Carpooling platforms provide a connection between the driver, usually the owner of the car and passenger(s) with the same destination, allowing transport at an affordable price. For seniors carpooling is also beneficial for meeting people who would probably never have met otherwise, thus creating social ties and allowing them to travel at low cost, also to destinations with poor on no connections with public transport. Most of carpooling platforms require a small fee for offering this service (e.g. BlaBlaBla car) and some of them provide this service for free (e.g. prevoz.org in Slovenia). BlaBlaCar is the most used carpooling platform in Europe. It was created in France, but has expanded to many other countries. In 2019 there were over 80 million of its users. 
+
+**Carsharing** is a model of car rental where people rent cars for short periods of time (minutes, hours) and only pay for their usage, based on how long the car is used and the distance travelled. Therefore, for people living in urban areas where this service is provided, owning a car is not necessary any more, as one can rent it only when needed. The renting organization is usually a commercial business. Its service includes costs of car ownership, registration, insurance, fuel, maintenance, vignette, loss of value, customer support and parking at designated locations, mostly in urban areas, where cars can be picked up and returned 24 hours a day, 7 days a week. The whole process of renting a car is done online using an application; first one has to register, pay a fee and to attend a short presentation on how to use this service. Registered users can then book a car on the desired location when they need it, unlock its doors using the application etc. To use this service, a smartphone and advanced ICT knowledge is required. 
+
+**ComParko** is a web platform that offers a connection between owners of unused parking spaces and drivers who need them. Through the platform, it is possible to search, rent or share a parking space for months, weeks, days or even hours. The platform started in Spain and expanded to other EU countries. <https://www.comparko.com/> 
+
+**Getaround** could also be a very useful platform for seniors; car owner can rent his/her car to others for a time when it is not needed. Seniors in particular do not use their cars as much as before but many of them prefer to keep it. This initiative is available in many Western European countries. <https://www.getaround.com/> 
+
+## **Shared housing and accommodation** 
+
+**Community housing or cohousing** is an alternative to traditional forms of housing for seniors; the platform offers the possibility of establishing contacts between people interested in cohousing, thus avoiding loneliness and promoting inclusion and social contacts. In Spain several initiatives are organized as housing cooperatives for seniors. 
+
+ **Un toit 2 Générations** is a French platform for intergenerational cohousing. It enables the connection of seniors accommodation providers and young people, most often students needing a room or temporary accommodation. They both can benefit from each other’s company, can learn, support, offer new skills etc. Similar recently established platform is Homiz. The objective of such platforms is to promote intergenerational coexistence by offering a solution for the growing social isolation of the older population and on the other hand for young people in need of affordable accommodation. <https://www.untoit2generations.fr/> 
+
+ **Short term accommodation, mostly for tourist travels and holidays:** 
+
+The platforms best known and used is  **Airbnb** allow property owners to rent out rooms, flats or houses that are otherwise unused for a short period of time, usually for tourists. By offering their accommodation the owners (many of them are seniors) can earn some extra money and improve their financial situation and also meet other people. 
+
+**Freebirdclub** platform; its target group are people aged over 60; owners rent out their unused rooms, apartments or cottages exclusively to seniors for holidays, travels etc. <https://www.thefreebirdclub.com/> 
+
+**Homeforexchange** provides an economical and comfortable holiday accommodation. Through this and other similar platforms offering temporary home exchange, the users upload their homes’ presentation and their preferred travel destinations and get in contact with others in order to exchange their homes or holiday apartments for a limited time. The exchange may be simultaneous or at different times. An annual membership is required. Nevertheless, mutual trust and confidence is required to let strangers use one’s home and treat it as his/her own. This platform is very popular among seniors allowing them to travel and visit other countries. <https://www.homeexchange.com/> 
+
+**Affitto Giardino** works as other platforms for sharing private properties with temporary users for compensation. It focuses exclusively on large gardens and other outdoor areas suitable for hosting events, celebrations, weddings and other gatherings. The owners of such facilities rent them out to earn some extra money, also to maintain these areas. <https://affittogiardino.it/>
+
+## Exchanging and sharing objects
+
+The  **Wallapop** platform allows buying and selling used, second hand objects, clothes, collection items, toys etc. In Spain it has 20 million users (almost half the population) and 70,000 daily transactions. It allows the reuse of objects that are no longer needed and connects people with similar needs and hobbies. <https://www.wallapop.com> In Slovenia
+
+ **"Library of things"** was established, where one can borrow tools, gadgets, toys, sport and camping equipment etc. things that are usually needed only for a short period and therefore people do not have to buy and own them. <https://www.libraryofthings.co.uk/> 
+
+## **Services to support older people** 
+
+**Ugo** is an Italian platform that allows seniors and their families to find informal caregivers in their local community, to offer them company and assistance in daily tasks: accompanying them to the store or to the doctor, keeping company, doing the housework, gardening, etc. On the other hand, healthy and active seniors can offer their time and services to other seniors through this platform, thus remaining active and included in the society. The caregivers are checked and approved beforehand by the experts from the Ugo team. <https://hellougo.com/> 
+
+**Village Care** acts as a platform where demand needs of seniors and their families and supply service providers meet. Users can browse the offer of nursing homes, day care, health and Alzheimer’s centres, professional or informal caregivers and alternative housing options for seniors. The platform provides a comprehensive insight and information on the care, health support and accommodation options available in their local community. <https://www.villagecare.org/> 
+
+## **Other areas** 
+
+ **L’Accorderie** is a time bank that is widespread in France, which allows people of all ages to pass on skills, knowledge and hobbies to others. The exchange currency is the time, based on the credit principle. The main result is interpersonal solidarity, as it promotes social engagement as well as strong intergenerational and community cooperation. <https://www.accorderie.fr/> 
+
+ **Zelemenjava**: seeds, plants or harvest swap or  **“crop2swap”** (zelenjava = vegetables, menjava = exchange) This is a Slovenian civil initiative for exchanging surplus seeds, seedlings and crops from home gardens; it enables the participants to eat good food, save money, reduce food waste and meet other community members. Crop swap events are organized in many towns all over the country on a voluntary basis. Participants are people from all generations, all walks of life, who grow vegetables for their own use, thus promoting selfsufficiency and solidarity among members of the local community. Their rule is that money is not used for exchange. <http://www.zelemenjava.si/> 

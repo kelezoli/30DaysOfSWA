@@ -6,10 +6,17 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+<<<<<<< HEAD
   title: 'DRinVET HANDBOOK',
   tagline: 'Digital Reality - the basis of skills training',
   url: 'https://drinvet-project.eu',
   baseUrl: '/basics/',
+=======
+  title: 'How to get results',
+  tagline: '',
+  url: 'https://www.kelemenzoltan.com',
+  baseUrl: '/gerapp/',
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon-32x32.png',
@@ -17,6 +24,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: '', // Usually your GitHub org/user name.
+<<<<<<< HEAD
   projectName: '', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -26,6 +34,11 @@ const config = {
     defaultLocale: 'en',
     locales: ['en'],
   },*/
+=======
+  projectName: 'GER-APP', // Usually your repo name.
+  trailingSlash: false,
+  // deploymentBranch: `gh-pages`, // default = gh-pages
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
 
   presets: [
     [
@@ -55,10 +68,17 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+<<<<<<< HEAD
         title: 'DRinVET',
         logo: {
           alt: 'DRinVET logo',
           src: 'img/svg/logo.svg', /*drinvet_logo_vektor_blue_bkgrnd.svg', */
+=======
+        title: 'Home',
+        logo: {
+          alt: 'GER-APP logo',
+          src: 'img/svg/logo.svg',
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
         },
         items: 
         [
@@ -66,8 +86,9 @@ const config = {
             type: 'doc',
             docId: 'Introduction',
             position: 'left',
-            label: 'Handbook',
+            label: 'Toolbox',
           },
+<<<<<<< HEAD
   
           {to: 'showcase', 
           label: 'Showcase', 
@@ -83,6 +104,13 @@ const config = {
                       label: 'Back to the main site',
                       position: 'right',
                     } ,
+=======
+          {
+            href: 'https://gerapp.eu/',
+            label: 'Gerapp Main page',
+            position: 'right',
+          },
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
         ],
       },
       footer: {
@@ -130,6 +158,7 @@ const config = {
           },
           */
         ],
+<<<<<<< HEAD
         logo: {
           alt: 'DRinVET Logo',
           src: 'img/png/footer_erasmus_drinvet_logo.png',
@@ -140,6 +169,10 @@ const config = {
         copyright: `Created by <a href="https://learnvirtual.eu/"> Learn Virtual Europe</a> </br>
         Copyright © ${new Date().getFullYear()} </br>The European Commission's support for the production of this publication does not constitute an endorsement of the contents, which reflect the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein.</br> ERASMUS + KA2: 2020-1-HR01-KA226-VET-094650.  `,
       }, 
+=======
+        copyright: `Copyright © ${new Date().getFullYear()} Inactivity is not an option (GER-APP) </a> - Built with <a href="https://docusaurus.io"> Docusaurus </a>  - Created by <a href="https://matraheg.hu/"> MatraHEG </a>`,
+      },
+>>>>>>> d6ed69407996172c60bc656c1266cfdf938f8dcc
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
